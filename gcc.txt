@@ -1,0 +1,4 @@
+compile for linux : gcc file.c -o compiledFileName
+compile for windows : gcc -o compiledFileName file.c
+
+execute compiled file : ./compiledFileName
